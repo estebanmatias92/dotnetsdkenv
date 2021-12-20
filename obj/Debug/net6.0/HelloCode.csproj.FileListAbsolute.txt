@@ -1,0 +1,15 @@
+/Users/julielerman/Dropbox/CODE Mag/Docker Desktop/HelloCode/bin/Debug/net6.0/HelloCode
+/Users/julielerman/Dropbox/CODE Mag/Docker Desktop/HelloCode/bin/Debug/net6.0/HelloCode.deps.json
+/Users/julielerman/Dropbox/CODE Mag/Docker Desktop/HelloCode/bin/Debug/net6.0/HelloCode.runtimeconfig.json
+/Users/julielerman/Dropbox/CODE Mag/Docker Desktop/HelloCode/bin/Debug/net6.0/HelloCode.dll
+/Users/julielerman/Dropbox/CODE Mag/Docker Desktop/HelloCode/bin/Debug/net6.0/ref/HelloCode.dll
+/Users/julielerman/Dropbox/CODE Mag/Docker Desktop/HelloCode/bin/Debug/net6.0/HelloCode.pdb
+/Users/julielerman/Dropbox/CODE Mag/Docker Desktop/HelloCode/obj/Debug/net6.0/HelloCode.csproj.AssemblyReference.cache
+/Users/julielerman/Dropbox/CODE Mag/Docker Desktop/HelloCode/obj/Debug/net6.0/HelloCode.GeneratedMSBuildEditorConfig.editorconfig
+/Users/julielerman/Dropbox/CODE Mag/Docker Desktop/HelloCode/obj/Debug/net6.0/HelloCode.AssemblyInfoInputs.cache
+/Users/julielerman/Dropbox/CODE Mag/Docker Desktop/HelloCode/obj/Debug/net6.0/HelloCode.AssemblyInfo.cs
+/Users/julielerman/Dropbox/CODE Mag/Docker Desktop/HelloCode/obj/Debug/net6.0/HelloCode.csproj.CoreCompileInputs.cache
+/Users/julielerman/Dropbox/CODE Mag/Docker Desktop/HelloCode/obj/Debug/net6.0/HelloCode.dll
+/Users/julielerman/Dropbox/CODE Mag/Docker Desktop/HelloCode/obj/Debug/net6.0/ref/HelloCode.dll
+/Users/julielerman/Dropbox/CODE Mag/Docker Desktop/HelloCode/obj/Debug/net6.0/HelloCode.pdb
+/Users/julielerman/Dropbox/CODE Mag/Docker Desktop/HelloCode/obj/Debug/net6.0/HelloCode.genruntimeconfig.cache
