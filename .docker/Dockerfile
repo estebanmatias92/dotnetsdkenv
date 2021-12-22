@@ -56,5 +56,5 @@ RUN useradd -s /bin/bash -m vscode
 RUN groupadd docker && usermod -aG docker vscode
 
 USER vscode
-
+RUN code --install-extension ms-dotnettools.csharp
 ENTRYPOINT ["sleep", "infinity"]
