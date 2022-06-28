@@ -6,4 +6,6 @@ RUN groupadd docker && usermod -aG docker vscode
 
 USER vscode
 
+WORKDIR /home/vscode
+
 ENTRYPOINT ["sleep", "infinity"]
