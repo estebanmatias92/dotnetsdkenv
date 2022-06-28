@@ -1,6 +1,12 @@
 {
   "recommendations": [
     "ms-dotnettools.csharp",
+    "visualstudioexptteam.vscodeintellicode",
+    "visualstudioexptteam.intellicode-api-usage-examples",
+    "kreativ-software.csharpextensions",
+    "fudge.auto-using",
+    "jorgeserrano.vscode-csharp-snippets",
+    "josephwoodward.vscodeilviewer",
     "ms-azuretools.vscode-docker"
   ]
 }
