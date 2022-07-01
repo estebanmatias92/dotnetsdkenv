@@ -12,7 +12,7 @@ Use this github url to create the Docker Dev Environment in Docker Desktop.
 
 Once created the Environment, open it with VS Code
 
-### 2 - Create a new .NET project
+### 3 - Create a new .NET project
 
 Now from the terminal you can run the .NET CLI commands and build a new Project
 
