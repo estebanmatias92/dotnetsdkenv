@@ -1,9 +1,11 @@
 # https://hub.docker.com/_/microsoft-dotnet-sdk/
 FROM mcr.microsoft.com/dotnet/sdk:6.0-bullseye-slim
 
-RUN useradd -s /bin/bash -m vscode
-RUN groupadd docker && usermod -aG docker vscode
+ENV MYUSER="vscode"
 
-USER vscode
+RUN useradd -s /bin/bash -m $MYUSER
+RUN groupadd docker && usermod -aG docker $MYUSER
+
+USER $MYUSER
 
 ENTRYPOINT ["sleep", "infinity"]
